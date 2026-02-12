@@ -59,8 +59,9 @@ Regression_Algorithms/
 │
 ├── linear_regression.py      # Core implementation of linear regression
 ├── multiple_regression.py    # Core implementation of multiple regression
-├── LICENSE                   # MIT License
-└── README.md                 # Project documentation
+├── LICENSE
+├── README.md                 # This file
+└── .gitignore
 ```
 
 ---
